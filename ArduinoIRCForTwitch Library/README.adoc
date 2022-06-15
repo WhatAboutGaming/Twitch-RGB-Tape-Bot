@@ -1,5 +1,7 @@
 = IRC Client Library for Arduino image:https://travis-ci.org/fredimachado/ArduinoIRC.svg?branch=master["Build Status", link="https://travis-ci.org/fredimachado/ArduinoIRC"]
 
+Modified by WhatAboutGamingLive to have more Twitch IRC support
+
 Connects your arduino project to an IRC server.
 
 == Features
